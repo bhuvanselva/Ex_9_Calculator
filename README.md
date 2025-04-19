@@ -21,12 +21,15 @@ Step 6: Display the calculator operation in MainActivity file.
 Step 7: Save and run the application.
 
 ## PROGRAM:
+```
 /*
 Program to print the text “calculator operation”.
 Developed by: BHUVANESHWARI S
 Registeration Number : 212222220008
 */
-##Activity_main.xml:
+```
+
+## Activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -176,7 +179,7 @@ Registeration Number : 212222220008
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-##MainActivity.java:
+## MainActivity.java:
 ```
 package com.example.exp9;
 
